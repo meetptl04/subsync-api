@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 // app.use(arcjetMiddleware);
 if (process.env.NODE_ENV === 'production') {
-	app.use(arcjetMiddleware); // ✅ Only apply in production
+	app.use(arcjetMiddleware); // Only apply in production
 }
 
 
