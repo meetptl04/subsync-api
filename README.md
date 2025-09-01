@@ -1,5 +1,7 @@
 # SubSync API
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Arcjet](https://img.shields.io/badge/Arcjet-1041FF?style=for-the-badge) ![Upstash](https://img.shields.io/badge/Upstash-000000?style=for-the-badge&logo=upstash&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-228be6?style=for-the-badge)
+
 SubSync is a robust backend API for managing user subscriptions. It provides a comprehensive set of features for handling users, authentication, subscription plans, and automated renewal reminders. Built with Node.js and Express, it offers a secure and scalable solution for any application requiring subscription management.
 
 ## Features
@@ -70,7 +72,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/<your-github-username>/subsync-api.git
+    git clone https://github.com/YOUR_GITHUB_USERNAME_HERE/subsync-api.git
     ```
 2.  Navigate to the project directory:
     ```bash
