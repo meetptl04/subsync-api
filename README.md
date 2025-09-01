@@ -72,7 +72,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME_HERE/subsync-api.git
+    git clone https://github.com/meetptl04/subsync-api.git
     ```
 2.  Navigate to the project directory:
     ```bash
